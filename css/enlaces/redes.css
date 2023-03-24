@@ -1,0 +1,37 @@
+/*--------------------------MODEL 1---------------------------*/
+/* .container-redes{
+  display: flex;
+  flex-direction: column;
+} */
+.red a{
+  background-color: #7500ea;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  display: inline-block;
+  width: 40px;
+  font-size: 24px;
+  padding: 5px 0;
+}
+.red a:hover {
+  width: 70px;
+  transition: 0.3s;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+}
+.face:hover {
+  background-color: #4267b2;
+}
+.whap:hover {
+  background-color: #25D366;
+}
+.insta:hover:hover {
+  background-color: #C13584;
+}
+.twit:hover {
+  background-color: #1DA1F2;
+}
+.mail:hover {
+  background-color: #757575;
+}
+.pint:hover {
+  background-color: #E60023;
+}
